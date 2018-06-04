@@ -1,6 +1,8 @@
 --[[
-    add your copyright thingy here.
-]]
+    Copyright: Kyu Yeon Lee, Omar Saleh Assadi 2018; Licensed under the EUPL, with extension of article 5
+    (compatibility clause) to any licence for distributing derivative works that have been
+    produced by the normal use of the Work as a library
+--]]
 
 moderator.language = {}
 moderator.language.list = {}
@@ -100,8 +102,8 @@ LANG.english = {
     bansNoBan = "There are currently no bans to view.",
 
     settingsColor = "Color Options",
-    settingAdministrative = "Administrative Options", 
-    settingClearSelection = "Clear selection after a command", 
+    settingAdministrative = "Administrative Options",
+    settingClearSelection = "Clear selection after a command",
 
     reportPending = "your report (# %s) has been sent and is awaiting review.",
     reportReceived = "%s has reported %s.",
@@ -136,8 +138,8 @@ LANG.korean = {
     bansNoBan = "현재 추방된 플레이어가 없습니다.",
 
     settingsColor = "메뉴 색 파레트",
-    settingAdministrative = "관리 옵션", 
-    settingClearSelection = "명령어 실행후 선택한 사용자 체크 해제", 
+    settingAdministrative = "관리 옵션",
+    settingClearSelection = "명령어 실행후 선택한 사용자 체크 해제",
 
     reportPending = "#%s 번 신고가 성공적으로 접수되었습니다.",
     reportReceived = "%s 님이 신고를 접수했습니다: %s.",
